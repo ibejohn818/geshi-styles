@@ -14,7 +14,7 @@ pre li,
 pre .li1 {
   font-weight: normal;
   vertical-align: top;
-  background-color: #282828;
+  background-color: transparent;
 }
 pre .ln {
   width: 1px;
@@ -26,7 +26,7 @@ pre .ln {
 pre .li2 {
   font-weight: bold;
   vertical-align: top;
-  background-color: #282828;
+  background-color: transparent;
 }
 pre .kw1 {
   color: #ff7700;
