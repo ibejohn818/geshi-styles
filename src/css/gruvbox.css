@@ -5,6 +5,7 @@ pre .de2 {
   padding: 0;
   background: none;
   vertical-align: top;
+  color: #ebdab4;
 }
 pre .imp {
   font-weight: bold;
@@ -29,14 +30,14 @@ pre .li2 {
   background-color: #282828;
 }
 pre .kw1 {
-  color: #8fb96b;
+  color: #b8ba37;
   font-weight: bold;
 }
 pre .kw2 {
   color: #008000;
 }
 pre .kw3 {
-  color: #b8ba37;
+  color: #8fb96b;
 }
 pre .kw4 {
   color: #0000cd;
@@ -54,7 +55,7 @@ pre .es0 {
   font-weight: bold;
 }
 pre .br0 {
-  color: black;
+  color: #ebdab4;
 }
 pre .sy0 {
   color: #66cc66;
