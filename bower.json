@@ -1,0 +1,10 @@
+{
+  "name": "geshi-styles",
+  "homepage": "https://github.com/ibejohn818/genshi-styles",
+  "authors": [
+    "John Hardy <john.hardy@me.com>"
+  ],
+  "description": "Geshi PHP Code Formatter styles and less templates",
+  "main": "",
+  "license": "MIT"
+}
